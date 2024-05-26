@@ -6,4 +6,4 @@ Cada carpeta contiene:
   3. Dos archivos de vídeo .avi, uno con los plots de velocidad y otro con los plots de presión/densidad de una simulación realizada previamente.
   4. La carpeta EMBALSE contiene, además de todo lo anterior, un archivo .json con la malla empleada para simular la geometría de la Laguna del Campillo. Este archivo es necesario para poder ejecutar el simulador.
 
-Al margen de las carpetas con los simuladores, se incluye un anexo complementario con desarrollos matemáticos de expresiones empleadas en el trabajo pero que en NINGÚN CASO es necesario para poder seguir el contenido del trabajo. 
+Al margen de las carpetas con los simuladores, se incluye un anexo complementario con desarrollos matemáticos de expresiones empleadas en el TFG pero que en NINGÚN CASO es necesario para poder seguir el contenido del trabajo. 
