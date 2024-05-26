@@ -73,7 +73,6 @@ class Fluid:
                     if np.sqrt((i-obs_x)**2 + (j-obs_y)**2) < obs_r:
                         self.estado[i, j] = 0
                         self.vel[i, j, :] = 0
-                        
 
     def flujo(self):
         self.vel[1, :, 0] = param['flujo']
